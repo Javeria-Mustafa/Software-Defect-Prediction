@@ -1,4 +1,4 @@
-Software Defect Prediction Using PCA Feature Selection
+**Software Defect Prediction Using PCA Feature Selection:**
 This project aims to improve the accuracy of software defect prediction models by applying Principal Component Analysis (PCA) to select the most important features before training.
 By reducing redundant or less important features, we can:
 
